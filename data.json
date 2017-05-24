@@ -1,0 +1,32 @@
+{
+  "tabs": [
+    {
+      "id": 1,
+      "name": "C-3PO",
+      "avatar": "http://vrinceanu.com/firefly-assets/C3P-0.svg",
+      "points": "2,983",
+      "editable": false
+    },
+    {
+      "id": 2,
+      "name": "Darth Vader",
+      "avatar": "http://vrinceanu.com/firefly-assets/vader.svg",
+      "points": "2,676",
+      "editable": false
+    },
+    {
+      "id": 3,
+      "name": "BB-8",
+      "avatar": "http://vrinceanu.com/firefly-assets/bb-8.svg",
+      "points": "1,292",
+      "editable": false
+    },
+    {
+      "id": 4,
+      "name": "Boba Fett",
+      "avatar": "http://vrinceanu.com/firefly-assets/fett.svg",
+      "points": "872",
+      "editable": false
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+.tabName {
+  display: inline-block;
+  background-color: #eaeaea;
+  border-radius: 6px 6px 0 0;
+  margin-left: 1px;
+  cursor: pointer;
+
+  a {
+    padding: 5px 10px;
+    display: block;
+    color: #5591d4;
+  }
+
+  &:hover {
+    background-color: #fff;
+  }
+
+  &.current {
+    background-color: #fff;
+  }
+}
+
+.TabContent {
+  background-color: #fff;
+  border-radius: 6px;
+  padding: 20px;
+  text-align: left;
+
+  input {
+    font-size: 14px;
+  }
+
+  a {
+    color: #5591d4;
+    display: block;
+  }
+
+  .avatar,
+  .details {
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  .details {
+    margin-left: 10px;
+  }
+
+  .avatar {
+    min-width: 50px;
+  }
+
+  .points {
+    color: #949494;
+    padding-top: 10px;
+    font-size: 14px;
+  }
+}
