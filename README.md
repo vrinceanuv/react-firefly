@@ -17,8 +17,6 @@ $ npm run test
 ```
 
 ## Features
-- Loading spinner (home component only)
-- Items list (add item, delete item)
 - Local mock server
 - Router
 - 404 page (eg: http://localhost:3000/TryToFindMe)
